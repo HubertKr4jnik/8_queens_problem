@@ -27,6 +27,14 @@ There are a few visualizers of this problem online. However I took a bit diifren
 
 * ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=white)
 
+## Local usage
+
+To run this project locally you nedd the following:
+* typescript
+  ```sh
+  npm install typescript --save-dev
+  ```
+
 ## Live demo
 
 The project is avalible under this url:
