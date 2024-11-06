@@ -39,10 +39,7 @@ To run this project locally you nedd the following:
 
 ## Live demo
 
-The project is avalible under this url:
-<br/>
-
-
+The project is avalible under this url: <a href="https://8-queens-problem-delta.vercel.app/">https://8-queens-problem-delta.vercel.app/</a>
 <hr/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
