@@ -15,6 +15,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![website-image](https://github.com/user-attachments/assets/fcd1a9d0-bc31-48a7-b69b-d08100dae192)
+
 There are a few visualizers of this problem online. However I took a bit diifrent approach. The progam uses the 8 Queens Problem backtracking algorithm converted from C++ into TypeScript. It finds all posiible solutions and then lets the user show them one-by-one.
 
 ## Built With
